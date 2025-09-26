@@ -1,6 +1,6 @@
 # 🌍 Travel Map App – MERN Stack mit Mapbox
 
-![Travel Map](https://your-github-image-link-here.png)
+![Travel Map](https://github.com/ramazanozguven/19_Travel-Map-App-MERN-Stack-mit-Mapbox/blob/4f9d7e88d672d2d564ed4ea78dd6b0861f8db7e8/Thumbnail.png)
 
 ## 📝 Projektbeschreibung  
 Die Travel Map App ist eine Full-Stack-Anwendung, mit der Benutzer Orte auf einer interaktiven Karte markieren und ihre Erfahrungen mit anderen teilen können.  
